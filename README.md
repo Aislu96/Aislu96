@@ -30,6 +30,7 @@
 <a href="https://github.com/Aislu96/movies-explorer-backend"><img src="https://img.shields.io/badge/movies%20explorer%20backend-green?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
 
 <a href="https://github.com/Aislu96/movies-explorer-frontend"><img src="https://img.shields.io/badge/movies%20explorer%20frontend-purple?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
+<a href="https://github.com/Aislu96/task"><img src="https://img.shields.io/badge/task?logoColor=red&style=for-the-badge" alt="how-to-learn"/></a>
 </div>
 
 * * *
