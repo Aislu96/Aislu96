@@ -6,7 +6,8 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" wigth="32"/>
 </h1>
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A0eGU0eXdpNHpkcGJlNzBuejdta2ZoaGhkeDdpZ2tkb3ptMml1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A0eGU0eXdpNHpkcGJlNzBuejdta2ZoaGhkeDdpZ2tkb3ptMml1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="400" styles={object-fit: cover;
+    object-position: center;} />
 </div>
 <p align="center">
   <a href="https://git.io/typing-svg">
