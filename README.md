@@ -30,7 +30,7 @@
 <a href="https://github.com/Aislu96/movies-explorer-backend"><img src="https://img.shields.io/badge/movies%20explorer%20backend-green?logoColor=white&style=for-the-badge" alt="movies-explorer-backend"/></a>
 
 <a href="https://github.com/Aislu96/movies-explorer-frontend"><img src="https://img.shields.io/badge/movies%20explorer%20frontend-purple?logoColor=white&style=for-the-badge" alt="movies-explorer-frontend"/></a>
-<a href="https://aislu96.github.io/react_redux_base/"><img src="https://img.shields.io/badge/react%20redux%20base-purple?logoColor=red&style=for-the-badge" alt="react_redux_base"/></a>
+<a href="https://aislu96.github.io/react_redux_base/"><img src="https://img.shields.io/badge/react%20redux%20base-black?logoColor=red&style=for-the-badge" alt="react_redux_base"/></a>
 </div>
 
 * * *
