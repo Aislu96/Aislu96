@@ -20,16 +20,17 @@
 
 <div id="badges">
   <a href="https://github.com/Aislu96/how-to-learn"><img src="https://img.shields.io/badge/how%20to%20learn-blue?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
-  <a href="https://github.com/Aislu96/russian-travel"><img src="https://img.shields.io/badge/russian%20travel-orange?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
-<a href="https://github.com/Aislu96/mesto"><img src="https://img.shields.io/badge/mesto-black?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
-  <a href="https://github.com/Aislu96/mesto-react"><img src="https://img.shields.io/badge/mesto%20react-blu?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
-  <a href="https://github.com/Aislu96/react-mesto-auth"><img src="https://img.shields.io/badge/react%20mesto%20auth-red?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
+  <a href="https://github.com/Aislu96/russian-travel"><img src="https://img.shields.io/badge/russian%20travel-orange?logoColor=white&style=for-the-badge" alt="russian-travel"/></a>
+<a href="https://github.com/Aislu96/mesto"><img src="https://img.shields.io/badge/mesto-black?logoColor=white&style=for-the-badge" alt="mesto"/></a>
+  <a href="https://github.com/Aislu96/mesto-react"><img src="https://img.shields.io/badge/mesto%20react-blu?logoColor=white&style=for-the-badge" alt="mesto-react"/></a>
+  <a href="https://github.com/Aislu96/react-mesto-auth"><img src="https://img.shields.io/badge/react%20mesto%20auth-red?logoColor=white&style=for-the-badge" alt="react-mesto-auth"/></a>
 
-<a href="https://github.com/Aislu96/react-mesto-api-full-gha"><img src="https://img.shields.io/badge/react%20mesto%20api%20full%20gha-yellow?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
-<a href="https://github.com/Aislu96/express-mesto-gha"><img src="https://img.shields.io/badge/express%20mesto%20gha-pink?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
-<a href="https://github.com/Aislu96/movies-explorer-backend"><img src="https://img.shields.io/badge/movies%20explorer%20backend-green?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
+<a href="https://github.com/Aislu96/react-mesto-api-full-gha"><img src="https://img.shields.io/badge/react%20mesto%20api%20full%20gha-yellow?logoColor=white&style=for-the-badge" alt="react-mesto-api-full-gha"/></a>
+<a href="https://github.com/Aislu96/express-mesto-gha"><img src="https://img.shields.io/badge/express%20mesto%20gha-pink?logoColor=white&style=for-the-badge" alt="express-mesto-gha"/></a>
+<a href="https://github.com/Aislu96/movies-explorer-backend"><img src="https://img.shields.io/badge/movies%20explorer%20backend-green?logoColor=white&style=for-the-badge" alt="movies-explorer-backend"/></a>
 
-<a href="https://github.com/Aislu96/movies-explorer-frontend"><img src="https://img.shields.io/badge/movies%20explorer%20frontend-purple?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
+<a href="https://github.com/Aislu96/movies-explorer-frontend"><img src="https://img.shields.io/badge/movies%20explorer%20frontend-purple?logoColor=white&style=for-the-badge" alt="movies-explorer-frontend"/></a>
+<a href="https://aislu96.github.io/react_redux_base/"><img src="https://img.shields.io/badge/react%20redux%20base-purple?logoColor=red&style=for-the-badge" alt="react_redux_base"/></a>
 </div>
 
 * * *
