@@ -63,37 +63,12 @@
   <a href="#"><img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint"></a>
 <a href="#"><img alt="Redux" src="https://img.shields.io/badge/-Redux-%234B32C3?logo=redux"></a>
 <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-%23000000?logo=next.js&logoColor=white"></a>
-<a href="#"><img alt="SCSS" src="https://img.shields.io/badge/-SCSS-%23000000?logo=sass&logoColor=white"></a>
-<a href="#">
-  <img
-    alt="Sass"
-    src="https://img.shields.io/badge/-Sass-%000000?logo=sass&logoColor=white"
-  >
-</a>
-<a href="#">
-  <img
-    alt="TailwindCSS"
-    src="https://img.shields.io/badge/-TailwindCSS-%000000?logo=tailwind-css&logoColor=white"
-  >
-</a>
-<a href="#">
-  <img
-    alt="Vercel"
-    src="https://img.shields.io/badge/-Vercel-%000000?logo=vercel&logoColor=white"
-  >
-</a>
-<a href="#">
-  <img
-    alt="Gulp"
-    src="https://img.shields.io/badge/-Gulp-%000000?logo=gulp&logoColor=white"
-  >
-</a>
-<a href="#">
-  <img
-    alt="Webpack"
-    src="https://img.shields.io/badge/-Webpack-%000000?logo=webpack&logoColor=white"
-  >
-</a>
+<a href="#"><img alt="SCSS" src="https://img.shields.io/badge/-Sass-%23CF649A?logo=sass&logoColor=white"></a>
+<a href="#"><img alt="Sass" src="https://img.shields.io/badge/-Sass-%000000?logo=sass&logoColor=white"></a>
+<a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-%2300A8E1?logo=tailwind-css&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-%000000?logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="Gulp" src="https://img.shields.io/badge/-Gulp-%000000?logo=gulp&logoColor=white"></a>
+<a href="#"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-%238E2C91?logo=webpack&logoColor=white"></a>
 
 </p>
 
