@@ -62,7 +62,7 @@
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
   <a href="#"><img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint"></a>
 <a href="#"><img alt="Redux" src="https://img.shields.io/badge/-Redux-%234B32C3?logo=redux"></a>
-<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-%234B32C3?logo=next.js&logoColor=black"></a>
+<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-%23000000?logo=next.js&logoColor=white"></a>
 </p>
 
 * * *
