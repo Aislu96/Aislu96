@@ -41,9 +41,16 @@
 <p>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="Sass" src="https://img.shields.io/badge/-Sass-%23CF649A?logo=sass&logoColor=white"></a>
+<a href="#"><img alt="Scss" src="https://img.shields.io/badge/-SCSS-%23CF649A?logo=sass&logoColor=white"></a>
+<a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-%2300A8E1?logo=tailwind-css&logoColor=white"></a>
   <a href="#"><img alt="Perfect Pixel" src="https://shields.io/badge/-Perfect%20Pixel-FF69B4"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="Gulp" src="https://img.shields.io/badge/-Gulp-%2300B74A?logo=gulp&logoColor=white"></a>
+<a href="#"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-%238E2C91?logo=webpack&logoColor=white"></a>
+  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-%23000000?logo=vercel&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-%23000000?logo=next.js&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -62,19 +69,11 @@
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
   <a href="#"><img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint"></a>
 <a href="#"><img alt="Redux" src="https://img.shields.io/badge/-Redux-%234B32C3?logo=redux"></a>
-<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-%23000000?logo=next.js&logoColor=white"></a>
-<a href="#"><img alt="Sass" src="https://img.shields.io/badge/-Sass-%23CF649A?logo=sass&logoColor=white"></a>
-<a href="#"><img alt="Scss" src="https://img.shields.io/badge/-Sсss-%23CF649A?logo=sass&logoColor=white"></a>
-<a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-%2300A8E1?logo=tailwind-css&logoColor=white"></a>
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-%23000000?logo=vercel&logoColor=white"></a>
-<a href="#"><img alt="Gulp" src="https://img.shields.io/badge/-Gulp-%2300B74A?logo=gulp&logoColor=white"></a>
-<a href="#"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-%238E2C91?logo=webpack&logoColor=white"></a>
-
 </p>
 
 * * *
 ### 🖼️ Обо мне 
-<span>В прошлом - врач-терапевт, сейчас - начинающий frontend разработчик.
+<span>Свой путь в программировании я начала с самостоятельного изучания верстки и js. Спустя время обучилась на курсе Яндекс практикум "Веб-разработчик". В настоящий момент работаю в компаниия "Binorix" Фронтенд-разработчиком.
 Мои самые лучшие качества - трудолюбие, усидчивость, ответственность, общительность, неконфликтность, инициативность, настойчивость. Умею работать в команде, имею логическое мышление и аналитический склад ума, умею проводить декомпозицию.
 Любое дело стараюсь делать на совесть и до конца. Хочу развиваться в данной сфере как хороший специалист. Очень замотивирована, если что-то не знаю, то быстро учусь.</span>
 
