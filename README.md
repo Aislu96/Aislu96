@@ -34,7 +34,7 @@
 <a href="https://github.com/Aislu96/react_redux_base"><img src="https://img.shields.io/badge/react%20redux%20base-black?logoColor=red&style=for-the-badge" alt="react_redux_base"/></a>
   <a href="https://github.com/Aislu96/test_work"><img src="https://img.shields.io/badge/test%20work%20-blue?logoColor=white&style=for-the-badge" alt="test_work"/></a>
     <a href="https://github.com/Aislu96/test-work-500na700"><img src="https://img.shields.io/badge/test%20work%20500na700-red?logoColor=white&style=for-the-badge" alt="test_work_500na700"/></a>
-    <a href="https://ebook.artsmrkts.com"><img src="https://ebook.artsmrkts.com-black?logoColor=white&style=for-the-badge" alt="artsmrkts_landing_page"/></a>
+    <a href="https://ebook.artsmrkts.com/"><img src="https://img.shields.io/badge/ebook-blue?logoColor=white&style=for-the-badge" alt="ebook_artsmrkts"/></a>
 </div>
 
 * * *
