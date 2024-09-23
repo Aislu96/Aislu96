@@ -37,12 +37,13 @@
 </div>
 
 * * *
-## 📚 Мои рабочие проекты:
+## 🚀 Мои рабочие проекты:
 
 <div id="badges">
     <a href="https://ebook.artsmrkts.com/"><img src="https://img.shields.io/badge/ebook-blue?logoColor=white&style=for-the-badge" alt="ebook_artsmrkts"/></a>
     <a href="https://b2b-bice.vercel.app/"><img src="https://img.shields.io/badge/НДС-green?logoColor=white&style=for-the-badge" alt="b2b-bice НДС"/></a>
 </div>
+
 * * *
 
 ## 🛠️ Languages and Tools:
