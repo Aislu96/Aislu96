@@ -30,7 +30,7 @@
 <a href="https://github.com/Aislu96/express-mesto-gha"><img src="https://img.shields.io/badge/express%20mesto%20gha-pink?logoColor=white&style=for-the-badge" alt="express-mesto-gha"/></a>
 <a href="https://github.com/Aislu96/movies-explorer-backend"><img src="https://img.shields.io/badge/movies%20explorer%20backend-green?logoColor=white&style=for-the-badge" alt="movies-explorer-backend"/></a>
 
-<a href="https://github.com/Aislu96/movies-explorer-frontend](https://movies-explorer-frontend-ecru.vercel.app/"><img src="https://img.shields.io/badge/movies%20explorer%20frontend-purple?logoColor=white&style=for-the-badge" alt="movies-explorer-frontend"/></a>
+<a href="https://movies-explorer-frontend-ecru.vercel.app/"><img src="https://img.shields.io/badge/movies%20explorer%20frontend-purple?logoColor=white&style=for-the-badge" alt="movies-explorer-frontend"/></a>
 <a href="https://github.com/Aislu96/react_redux_base"><img src="https://img.shields.io/badge/react%20redux%20base-black?logoColor=red&style=for-the-badge" alt="react_redux_base"/></a>
   <a href="https://aislu96.github.io/test_work/"><img src="https://img.shields.io/badge/test%20work%20binorix-blue?logoColor=white&style=for-the-badge" alt="test_work"/></a>
     <a href="https://aislu96.github.io/test-work-500na700/"><img src="https://img.shields.io/badge/test%20work%20500na700-red?logoColor=white&style=for-the-badge" alt="test_work_500na700"/></a>
