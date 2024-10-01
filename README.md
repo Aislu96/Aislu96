@@ -20,7 +20,7 @@
 ## 📚 Мои проекты:
 
 <div id="badges">
-  <a href="[https://github.com/Aislu96/how-to-learn](https://how-to-learn-azure.vercel.app/)"><img src="https://img.shields.io/badge/how%20to%20learn-blue?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
+  <a href="https://how-to-learn-azure.vercel.app/"><img src="https://img.shields.io/badge/how%20to%20learn-blue?logoColor=white&style=for-the-badge" alt="how-to-learn"/></a>
   <a href="https://github.com/Aislu96/russian-travel"><img src="https://img.shields.io/badge/russian%20travel-orange?logoColor=white&style=for-the-badge" alt="russian-travel"/></a>
 <a href="https://github.com/Aislu96/mesto"><img src="https://img.shields.io/badge/mesto-black?logoColor=white&style=for-the-badge" alt="mesto"/></a>
   <a href="https://github.com/Aislu96/mesto-react"><img src="https://img.shields.io/badge/mesto%20react-blu?logoColor=white&style=for-the-badge" alt="mesto-react"/></a>
