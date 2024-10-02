@@ -54,6 +54,9 @@
 <a href="https://aislu96.github.io/maket-copico/">
   <img src="https://img.shields.io/badge/maket--copico-green?logoColor=black&style=for-the-badge" alt="maket-copico"/>
 </a>
+<a href="https://aislu96.github.io/pharmacy-react/">
+  <img src="https://img.shields.io/badge/pharmacy-grey?logoColor=black&style=for-the-badge" alt="pharmacy"/>
+</a>
 
 
 </div>
