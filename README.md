@@ -43,7 +43,10 @@
     <a href="https://ebook.artsmrkts.com/"><img src="https://img.shields.io/badge/ebook-blue?logoColor=white&style=for-the-badge" alt="ebook_artsmrkts"/></a>
     <a href="https://b2b-bice.vercel.app/"><img src="https://img.shields.io/badge/НДС-green?logoColor=white&style=for-the-badge" alt="b2b-bice НДС"/></a>
  <a href="https://aislu96.github.io/advertising-binorix/">
-  <img src="https://img.shields.io/badge/advertising--biborix-red?logoColor=white&style=for-the-badge" alt="advertising_biborix"/>
+  <img src="https://img.shields.io/badge/advertising--binorix-red?logoColor=white&style=for-the-badge" alt="advertising_biborix"/>
+</a>
+  <a href="https://aislu96.github.io/colorfun/">
+  <img src="https://img.shields.io/badge/colorfun-white?logoColor=black&style=for-the-badge" alt="colorfun"/>
 </a>
 
 
