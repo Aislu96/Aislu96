@@ -46,7 +46,10 @@
   <img src="https://img.shields.io/badge/advertising--binorix-red?logoColor=white&style=for-the-badge" alt="advertising_biborix"/>
 </a>
   <a href="https://aislu96.github.io/colorfun/">
-  <img src="https://img.shields.io/badge/colorfun-white?logoColor=black&style=for-the-badge" alt="colorfun"/>
+  <img src="https://img.shields.io/badge/colorfun-yellow?logoColor=black&style=for-the-badge" alt="colorfun"/>
+</a>
+<a href="https://aislu96.github.io/maket-copico/">
+  <img src="https://img.shields.io/badge/maket--copico-green?logoColor=black&style=for-the-badge" alt="maket-copico"/>
 </a>
 
 
