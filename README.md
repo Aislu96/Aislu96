@@ -41,6 +41,9 @@
 
 <div id="badges">
     <a href="https://ebook.artsmrkts.com/"><img src="https://img.shields.io/badge/ebook-blue?logoColor=white&style=for-the-badge" alt="ebook_artsmrkts"/></a>
+  <a href="https://artsmarkets.vercel.app/">
+  <img src="https://img.shields.io/badge/arsmrtks-orange?logoColor=black&style=for-the-badge" alt="arsmrtks"/>
+</a>
     <a href="https://b2b-bice.vercel.app/"><img src="https://img.shields.io/badge/НДС-green?logoColor=white&style=for-the-badge" alt="b2b-bice НДС"/></a>
  <a href="https://aislu96.github.io/advertising-binorix/">
   <img src="https://img.shields.io/badge/advertising--binorix-red?logoColor=white&style=for-the-badge" alt="advertising_biborix"/>
