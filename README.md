@@ -1,5 +1,5 @@
 <div align="center"><a  href="https://www.codewars.com/users/Aislu96"><img alt="codewars" src="https://www.codewars.com/users/Aislu96/badges/large"></a></div>
-<a href="https://leetcode.com/u/Aislu96/"  target="_blank" align="center" color="black">Visit my LeetCode Profile</a>
+<a href="https://leetcode.com/u/Aislu96/" target="_blank" style="text-align: center; color: black; display: block;">Visit my LeetCode Profile</a>
 
 
 * * *
