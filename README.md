@@ -1,16 +1,4 @@
 <div align="center"><a  href="https://www.codewars.com/users/Aislu96"><img alt="codewars" src="https://www.codewars.com/users/Aislu96/badges/large"></a></div>
-<a href="https://leetcode.com/u/Aislu96/" target="_blank" style="
-    display: inline-block; 
-    padding: 10px 20px; 
-    background-color: #4CAF50; 
-    color: white; 
-    text-decoration: none; 
-    border-radius: 5px; 
-    transition: background-color 0.3s, transform 0.3s;
-    text-align: center;
-    font-size: 16px;">
-    Visit my LeetCode Profile
-</a>
 
 
 * * *
@@ -114,7 +102,18 @@
 <span>Свой путь в программировании я начала с самостоятельного изучания верстки и js. Спустя время обучилась на курсе Яндекс практикум "Веб-разработчик". В настоящий момент работаю в компаниия "Binorix" Фронтенд-разработчиком.
 Мои самые лучшие качества - трудолюбие, усидчивость, ответственность, общительность, неконфликтность, инициативность, настойчивость. Умею работать в команде, имею логическое мышление и аналитический склад ума, умею проводить декомпозицию.
 Любое дело стараюсь делать на совесть и до конца. Хочу развиваться в данной сфере как хороший специалист. Очень замотивирована, если что-то не знаю, то быстро учусь.</span>
-
+<a href="https://leetcode.com/u/Aislu96/" target="_blank" style="
+    display: inline-block; 
+    padding: 10px 20px; 
+    background-color: #4CAF50; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    transition: background-color 0.3s, transform 0.3s;
+    text-align: center;
+    font-size: 16px;">
+    Visit my LeetCode Profile
+</a>
 ### 📞 Связаться со мной:
 
 <p>Telegram: <a href="https://t.me/aislusha96">aislusha96</a></p>
